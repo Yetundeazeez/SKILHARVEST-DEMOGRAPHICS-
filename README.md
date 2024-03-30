@@ -1,14 +1,15 @@
-# SKILHARVEST-DEMOGRAPHICS-
+# SKILHARVEST-DEMOGRAPHY-
 
 
 ---
+
 ## **Project Outline**
 - [Project Overview](#Project-Overview)
 - [Dataset](#Dataset)
 - [Tools Used for Analysis](#Tools-Used-for-Analysis)
 - [Data Cleaning and Transformation](#Data-Cleaning-and-Transformation)
 - [Results and Findings](#Results-and-Findings)
-- [Recommendation](#Recommendation)
+
 ---
 
 ## Project Overview
@@ -32,10 +33,11 @@ The dataset used can be seen below:
 ## Data Cleaning and Transformation
 
 The dataset was imported into Power BI for data cleaning and transformation:
-There are no duplicate values in the dataset
-All the data types are correct
-The missing value in the country column was replaced with NAN. This was done to avoid deleting the row since the number of responses is small.
-Then the dataset was loaded into power BI for proper visualization.
+
+- There are no duplicate values in the dataset
+- All the data types are correct
+- The missing value in the country column was replaced with NAN. This was done to avoid deleting the row since the number of responses/students is small.
+- Then the dataset was loaded into power BI for proper visualization.
 
 ---
 
@@ -49,9 +51,6 @@ The following insights are deduced from the report of the analysis:
 4. The bar chart shows that most of the students in the class are under the age group 25-29yrs which is 18 in total while students in the age group 35-39yrs is the least number (3).
 5. Most of the students are from Nigeria. That is, Nigeria has the highest number of students in class (39) while Ghana, Zambia and Zimbabwe has one student each which is the least.
 6. Students with B.Sc/HND/B.Tech certificates represent a higher number in class (35) while the least number of students are both ND/Diploma and SSCE. Both has one student each.
-7. A higher number of the students are still pursuing a certificate in school and they are 7 in 
-
+7. A higher number of SKIL-HARVEST students are still pursuing a certificate in school and they are 7 in total
 
 ---
-
-## Recommendation
