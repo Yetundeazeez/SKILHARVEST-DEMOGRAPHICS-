@@ -13,13 +13,12 @@
 
 ## Project Overview
 
-The purpose of this project is to perform data analysis on the PIZZA SALES dataset based on the sales metric provided in the dataset.
-
+The purpose of this project is to perform data analysis on the SKiL-HARVEST students' responses to a survey conducted to gain more insights into the demographic information of the students.
 
 ---
 ## Dataset
-The dataset used can be downloaded
-[here](https://docs.google.com/spreadsheets/d/1VxTl9i2xIhX_w5H3HIZuUvii7jPwQ7ar/edit?usp=drivesdk&ouid=107825176458530935443&rtpof=true&sd=true)
+The dataset used can be seen below:
+
 
 ---
 
@@ -32,6 +31,11 @@ The dataset used can be downloaded
 
 ## Data Cleaning and Transformation
 
+The dataset was imported into Power BI for data cleaning and transformation:
+There are no duplicate values in the dataset
+All the data types are correct
+The missing value in the country column was replaced with NAN. This was done to avoid deleting the row since the number of responses is small.
+Then the dataset was loaded into power BI for proper visualization.
 
 ---
 
