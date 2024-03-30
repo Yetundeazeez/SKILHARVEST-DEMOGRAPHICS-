@@ -37,6 +37,9 @@ The dataset was imported into Power BI for data cleaning and transformation:
 - There are no duplicate values in the dataset
 - All the data types are correct
 - The missing value in the country column was replaced with NAN. This was done to avoid deleting the row since the number of responses/students is small.
+
+![](IMG-20240330-WA0017.jpg)
+
 - Then the dataset was loaded into power BI for proper visualization.
 
 ---
